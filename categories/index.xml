@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on im0j.me</title>
+    <link>https://im0j.github.io/categories/</link>
+    <description>Recent content in Categories on im0j.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language><atom:link href="https://im0j.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

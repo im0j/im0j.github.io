@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on im0j.me</title>
+    <link>https://im0j.github.io/tags/tag1/</link>
+    <description>Recent content in tag1 on im0j.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Wed, 27 Jan 2021 11:33:16 +0900</lastBuildDate><atom:link href="https://im0j.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 포스트</title>
+      <link>https://im0j.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 27 Jan 2021 11:33:16 +0900</pubDate>
+      
+      <guid>https://im0j.github.io/posts/my-first-post/</guid>
+      <description>이 글은 제 첫 번째 포스트입니다. 블로그에서 글이 정상적으로 보이는지 확인합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
